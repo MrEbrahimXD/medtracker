@@ -331,7 +331,7 @@ namespace Father
                     Credentials = new NetworkCredential()
                     {
                         UserName = "pharmacy.alquaa@gmail.com",
-                        Password = "SUDObash#1234"
+                        Password = "LOL YOU STUPID ??"
                     }
                 };
                 MailAddress FromEmail = new MailAddress("pharmacy.alquaa@gmail.com", "Medicine Tracker Report");
